@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main() {
+int main() 
+{
   string name;
   std::cout << "Enter your name"; 
   std::cin << name;
